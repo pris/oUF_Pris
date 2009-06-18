@@ -1,0 +1,6 @@
+## Interface: 30000
+## Title: !LynColors
+## Author: Lyn
+## X-Credits: Original code by rothar/zork - using it with own colors and some (small) additions
+## Notes: Replaces Blizzard colors with old colors from oUF_Lyn
+core.lua

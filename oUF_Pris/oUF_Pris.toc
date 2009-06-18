@@ -1,0 +1,9 @@
+## Interface: 30100
+## Author: Pris
+## Title: oUF_Pris
+## Version: r1
+## OptionalDeps: oUF_PowerSpark, oUF_DebuffHighlight, oUF_Banzai, oUF_DruidHots, oUF_SpellRange, oUF_Smooth
+## RequiredDeps: oUF
+
+
+layout.lua

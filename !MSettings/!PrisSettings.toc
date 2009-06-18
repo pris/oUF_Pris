@@ -1,0 +1,5 @@
+## Interface: 30000
+## Title: !PrisSettings
+## Notes: Fonts, Textures and a Panel for ManeutUI
+
+invite.lua
